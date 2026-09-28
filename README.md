@@ -1,5 +1,9 @@
 
 <p align="center">
+  $${\color{#9E8FA1}\textsf{𝑷𝑳𝑬𝑨𝑺𝑬 𝑮𝑰𝑭𝑻 𝑴𝑬 𝑱𝑨𝑴𝑨𝑻𝑶 𝑷𝑶𝑵𝑰𝑬𝑺! }}$$
+</p>
+
+<p align="center">
   <a href="https://larpfies.atabook.org">新book</a><br>
 </p>
 
